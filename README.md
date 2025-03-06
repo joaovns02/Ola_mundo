@@ -21,3 +21,19 @@ Lista de Tarefas:
 
 Link
 [Clique aqui](https://www.youtube.com)
+
+Tabela:
+Num | Nome | Nota |
+---|---|---
+1 | joao | 9
+2 | gustavo | 10
+
+Terminei
+
+Que código é `Document.getElementById()`
+
+Programa 🧮
+```
+num = 2
+nome = joao
+```
