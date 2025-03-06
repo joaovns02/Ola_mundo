@@ -14,5 +14,5 @@ Lista demarcada:
  * teste 
 
 Lista de Tarefas:
-- [ ] Criar a mainpage
+- [x] Criar a mainpage
 - [ ] Criar a pagina 2
