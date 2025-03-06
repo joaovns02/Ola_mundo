@@ -4,9 +4,9 @@
 **Local  de teste**
 
 Lista numerada:
-1.item 1
-1.item 2
-1.item 1
+1. item 1
+1. item 2
+1. item 1
    1.subitem
 
 Lista demarcada:
@@ -14,5 +14,5 @@ Lista demarcada:
  * teste 
 
 Lista de Tarefas:
-- [] Criar a mainpage
-= [] Criar a pagina 2
+-[] Criar a mainpage
+-[] Criar a pagina 2
